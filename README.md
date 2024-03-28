@@ -27,7 +27,7 @@ You can use `yarn` instead of `npm`.
 After executing this command, then you will power on an `Android Emulator` (like Android Studio Emulator, Memu, Momo, GenyMotion, Nox and so on). And then you must install `Expo Go` App on this emulator. You can download `Expo Go` App [here](https://d1ahtucjixef4r.cloudfront.net/Exponent-2.30.11.apk) or Refer [here](https://expo.dev/tools).  
 After power on the emulator, then you will press *simple* `a` key in the command prompt. Before press `a` key in the command prompt, this CMD will be waiting for your key press.  
 This is the screen you will get after execute the above command.  
-<img src='./assets/Screen.jpg'/>
+<img src='./assets/HomeScreen.JPG'/>  
 
 ## Requirement
 I have some network issue to build this project for android. I think `expo` is the most convenient way to **Create** *React Native App* and **Build** without any issue like `gradle` or any other stuff. But `expo` only works online and build the project online too. I have been faced with network issue as build this project.
