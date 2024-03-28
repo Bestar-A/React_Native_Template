@@ -42,7 +42,7 @@ Follow these steps to build this project.
   expo login
   ```
   And then you can type Email or Username and Password for expo account. If you don't have expo account, then you must login and verify. Adn then you can use this email and password for the above.
-  > **Be aware of this!**
+  > **Be aware of this!**  
   You should use Command Prompt instead of PowerShell. If you use PowerShell, you might get `sign issue` when using `expo` or `eas` command.
   
 - Build by EAS CLI
